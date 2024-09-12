@@ -16,28 +16,7 @@ En l'an 2198, l'humanité embarque à bord de l'**Arcadie**, un vaisseau spatial
 - **Carte des planètes** : Une carte interactive affiche les planètes avec des ressources disponibles. Possibilité de filtrer par type de ressource.
 - **Gestion des déplacements** : Si le vaisseau dispose des ressources nécessaires, vous pouvez vous rendre sur une planète pour vous ravitailler.
 
-## Captures d'écran
-
-1. **Interface de gestion des ressources** : Suivi en temps réel des stocks et activation des modes de survie.
-   
-   ![Gestion des ressources](/path_to_image/resource_management.png)
-
-2. **Carte des planètes** : Visualisation des planètes à proximité et des ressources disponibles.
-
-   ![Carte des planètes](/path_to_image/planet_map.png)
-
-3. **Résumé des ressources** : Récapitulatif des ressources disponibles sur une planète avant d'y atterrir.
-
-   ![Résumé des ressources](/path_to_image/resource_summary.png)
-
 ## Technologies utilisées
 
 - **Vue.js** : Framework JavaScript pour la construction de l'interface utilisateur.
 - **SCSS** : Pour la gestion des styles.
-- **GitLab** : Utilisé pour la gestion du code et des commits lors du hackathon.
-
-## Comment lancer le projet
-
-1. **Clonez** ce dépôt GitHub :
-   ```bash
-   git clone https://github.com/votre_utilisateur/unstarved_together.git
